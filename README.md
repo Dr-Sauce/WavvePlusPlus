@@ -34,17 +34,17 @@ Want to use **Wavve++** on your Mac..? Press the link [here](https://github.com/
 
 # Q&A
 
-○ What's the difference between **Wavve++** and **Wavve++ Lite**?
+**○ What's the difference between **Wavve++** and **Wavve++ Lite**?**
 
 Wavve++ has a feature that detects whether you've used Wavve++ before so you can easily install VLC. Wavve++ Lite doesn't have this feature.
 
-○ Why can't I use Wavve++ on iOS 14 or lower?
+**○ Why can't I use Wavve++ on iOS 14 or lower?**
 
 As said Wavve++ detects whether you've used Wavve++ before. The code used on this part does not work on iOS 14 or lower.
 
 (So that's why you have to manually install VLC if you use Wavve++ Lite.)
 
-○ What is the **firstrun.txt** file in my Files app?
+**○ What is the **firstrun.txt** file in my Files app?**
 
 That's the file used to detect whether you've used Wavve++ before. If you delete that file Wavve++ will think it's your first time and prompt the setup popup again. (So don't delete it.)
 
