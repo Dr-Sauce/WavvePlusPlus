@@ -1,5 +1,5 @@
 # Wavve++
-A shortcut that allows you to watch live TV
+A shortcut that allows you to watch TV
 
 # How to install
 
@@ -15,7 +15,7 @@ A shortcut that allows you to watch live TV
 
 ![A2512035-4C45-408B-8F6F-E7B3B1C65D23](https://user-images.githubusercontent.com/82555878/196369821-ea3c443f-fbaf-4cb3-9021-d49127fc4637.jpeg)
 
-4. Install VLC. A popup will appear a few seconds later. Do NOT press OK before install is finished.
+4. Install VLC. A popup will appear a few seconds later. Do NOT press OK before install finishes.
 
 ![C83D6A01-67D5-4FD6-B2E4-B9D84442F707](https://user-images.githubusercontent.com/82555878/196369833-59cf1dc2-ffbf-461d-8767-bd0608f0ebd6.jpeg)
 
