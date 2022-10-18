@@ -7,10 +7,9 @@ Want to use **Wavve++ for Mac** on your Mac..? Press the link [here](https://git
 
 1. Get the latest version of Wavve++ from [releases](https://github.com/Dr-Sauce/WavvePlus/releases/tag/Releases).
 
+Notice: **Wavve++** does not support iOS 14 or lower. If you use iOS 14 or lower, select **Wavve++ Lite**.
 
-**Wavve++** does not support iOS 14 or lower. If you use iOS 14 or lower, select **Wavve++ Lite**.
-
-![C2259DC7-2C6F-4FD9-A5EA-32B59540C400](https://user-images.githubusercontent.com/82555878/196383987-cbbb1e6f-6015-4bed-945a-7a1a9f5d837a.png)
+![DC8B465B-689B-404E-A94D-1788BAEA184C](https://user-images.githubusercontent.com/82555878/196396909-f4fad246-59c2-464e-87ed-850b68643527.png)
 
 2. Add the shortcut to your iPhone(iPad, iPod…).
 
@@ -18,8 +17,7 @@ Want to use **Wavve++ for Mac** on your Mac..? Press the link [here](https://git
 
 3. Launch the shortcut. Press OK to install VLC.
 
-
-**Wavve++ Lite** cannot automatically open the App Store to install VLC. You need to manually install VLC from the App Store.
+Notice: If you are using **Wavve++ Lite** you need to manually install VLC from the App Store.
 
 ![A2512035-4C45-408B-8F6F-E7B3B1C65D23](https://user-images.githubusercontent.com/82555878/196369821-ea3c443f-fbaf-4cb3-9021-d49127fc4637.jpeg)
 
@@ -33,6 +31,24 @@ Want to use **Wavve++ for Mac** on your Mac..? Press the link [here](https://git
 
 ![A21492B3-E823-4F3A-BE7C-DD9055BD8AB7](https://user-images.githubusercontent.com/82555878/196369852-3569af64-8cfd-44b5-98da-6ec9936e9757.jpeg)
 ![53C94F8C-2BE4-478C-9B78-EDABDC58F7D4](https://user-images.githubusercontent.com/82555878/196369861-10d08530-4d91-439b-be64-2e6321eaf062.jpeg)
+
+# Q&A
+
+○ What's the difference between **Wavve++** and **Wavve++ Lite**?
+
+Wavve++ has a feature that detects whether you've used Wavve++ before so you can easily install VLC. Wavve++ Lite doesn't have this feature.
+
+○ Why can't I use Wavve++ on iOS 14 or lower?
+
+As said Wavve++ detects whether you've used Wavve++ before. The code used on this part does not work on iOS 14 or lower.
+
+(So that's why you have to manually install VLC if you use Wavve++ Lite.)
+
+○ What is the **firstrun.txt** file in my Files app?
+
+That's the file used to detect whether you've used Wavve++ before. If you delete that file Wavve++ will think it's your first time and prompt the setup popup again. (So don't delete it.)
+
+If you really hate that file staying in your Files app, you can use **Wavve++ Lite**.
 
 # Credits:
 By [SAUCE COMPANY](https://m.blog.naver.com/sauce2011)
