@@ -7,9 +7,9 @@ Want to use **Wavve++** on your Mac..? Press the link [here](https://github.com/
 
 1. Get the latest version of Wavve++ from [releases](https://github.com/Dr-Sauce/WavvePlus/releases/tag/Releases).
 
-**Notice:** Wavve++ does not support iOS 14 or lower. If you use iOS 14 or lower, select Wavve++ Lite.
+**Notice:** Wavve++ does not support iOS 14 or lower. If you are on iOS 14 or lower, select Wavve++ Lite.
 
-![DC8B465B-689B-404E-A94D-1788BAEA184C](https://user-images.githubusercontent.com/82555878/196396909-f4fad246-59c2-464e-87ed-850b68643527.png)
+![7466807C-12E4-477A-8129-CF07A3813353](https://user-images.githubusercontent.com/82555878/196410499-f0dd0cae-a892-4962-a807-6a6c0afa2da3.png)
 
 2. Add the shortcut to your iPhone(iPad, iPod…).
 
