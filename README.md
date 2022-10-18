@@ -44,7 +44,7 @@ As said Wavve++ detects whether you've used Wavve++ before. The code used on thi
 
 (So that's why you have to manually install VLC if you use Wavve++ Lite.)
 
-**○ What is the **firstrun.txt** file in my Files app?**
+**○ What is the **firstrun.txt** file in Files app?**
 
 That's the file used to detect whether you've used Wavve++ before. If you delete that file Wavve++ will think it's your first time and prompt the setup popup again. (So don't delete it.)
 
