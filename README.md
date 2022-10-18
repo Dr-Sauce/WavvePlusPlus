@@ -46,7 +46,7 @@ As said Wavve++ detects whether you've used Wavve++ before. The code used on thi
 
 **○ What is the **firstrun.txt** file in Files app?**
 
-That's the file used to detect whether you've used Wavve++ before. If you delete that file Wavve++ will think it's your first time and prompt the setup popup again. (So don't delete it.)
+That's the file used to detect whether you've used Wavve++ before. If you delete that file Wavve++ will think it's you've never used Wavve++ before and prompt the setup popup again. (So don't delete it.)
 
 If you really hate that file staying in your Files app, you can use **Wavve++ Lite**.
 
