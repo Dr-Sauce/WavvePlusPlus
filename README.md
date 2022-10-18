@@ -7,7 +7,8 @@ Want to use **Wavve++ for Mac** on your Mac..? Press the link [here](https://git
 
 1. Get the latest version of Wavve++ from [releases](https://github.com/Dr-Sauce/WavvePlus/releases/tag/Releases).
 
-If you use iOS 14 or lower, you have to select **Wavve++ Lite**.
+
+**Wavve++** does not support iOS 14 or lower. If you use iOS 14 or lower, select **Wavve++ Lite**.
 
 ![C2259DC7-2C6F-4FD9-A5EA-32B59540C400](https://user-images.githubusercontent.com/82555878/196383987-cbbb1e6f-6015-4bed-945a-7a1a9f5d837a.png)
 
@@ -17,7 +18,8 @@ If you use iOS 14 or lower, you have to select **Wavve++ Lite**.
 
 3. Launch the shortcut. Press OK to install VLC.
 
-**Wavve++ Lite** doesn't have the feature to install VLC. If you are on iOS 14 or lower you need to manually install VLC from the App Store.
+
+**Wavve++ Lite** cannot automatically open the App Store to install VLC. You need to manually install VLC from the App Store.
 
 ![A2512035-4C45-408B-8F6F-E7B3B1C65D23](https://user-images.githubusercontent.com/82555878/196369821-ea3c443f-fbaf-4cb3-9021-d49127fc4637.jpeg)
 
