@@ -1,7 +1,7 @@
 # Wavve++
 A shortcut that allows you to watch TV
 
-Want to use this shortcut on Mac..? Press the link [here](https://github.com/Dr-Sauce/WavvePlusForMac)!
+**Wavve++ for Mac**..? Press the link [here](https://github.com/Dr-Sauce/WavvePlusForMac)!
 
 # How to install
 
