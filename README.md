@@ -17,7 +17,7 @@ Want to use **Wavve++** on your Mac..? Press the link [here](https://github.com/
 
 3. Launch the shortcut. Press OK to install VLC.
 
-**Notice:** If you are using **Wavve++ Lite** you need to manually install VLC from the App Store.
+**Notice:** If you are using **Wavve++ Lite** you need to [manually install VLC from the App Store](https://apps.apple.com/app/vlc-media-player/id650377962).
 
 ![A2512035-4C45-408B-8F6F-E7B3B1C65D23](https://user-images.githubusercontent.com/82555878/196369821-ea3c443f-fbaf-4cb3-9021-d49127fc4637.jpeg)
 
