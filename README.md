@@ -38,7 +38,7 @@ Want to use **Wavve++** on your Mac..? Press the link [here](https://github.com/
 
 Wavve++ has a feature that detects whether you've used Wavve++ before so you can easily install VLC. Wavve++ Lite doesn't have this feature.
 
-**○ Why can't I use Wavve++ on iOS 14 or lower? (Why is Wavve++ Lite only supported for iOS 14 or lower?)**
+**○ Why can't I use Wavve++ on iOS 14 or lower? (Why can I only use Wavve++ Lite on iOS 14 or lower?)**
 
 As said Wavve++ detects whether you've used Wavve++ before. The code used on this part does not work on iOS 14 or lower.
 
