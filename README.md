@@ -51,7 +51,7 @@ That's the file used to detect whether you've used Wavve++ before. If you delete
 If you really hate that file staying in your Files app, you can use **Wavve++ Lite**.
 
 # Credits:
-[SAUCE COMPANY](https://m.blog.naver.com/sauce2011) (Wavve++)
+[SAUCE COMPANY](https://m.blog.naver.com/sauce2011) (Wavve++, Wavve++ Lite)
 
 # Source:
 [인코스튜디오](https://m.blog.naver.com/gjppjh09/222416011602) (Streaming links)
