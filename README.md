@@ -51,7 +51,9 @@ That's the file used to detect whether you've used Wavve++ before. If you delete
 If you really hate that file staying in your Files app, you can use **Wavve++ Lite**.
 
 # Credits:
-By [SAUCE COMPANY](https://m.blog.naver.com/sauce2011)
+[SAUCE COMPANY](https://m.blog.naver.com/sauce2011) (Wavve++)
 
+# Source:
+[인코스튜디오](https://m.blog.naver.com/gjppjh09/222416011602) (Streaming links)
 
-[인코스튜디오](https://m.blog.naver.com/gjppjh09/222416011602) (Streaming links), [u/bennym42](https://www.reddit.com/r/shortcuts/comments/phtjkh/how_do_you_create_a_first_time_setup/hbmi1h7) (Shortcut script)
+[u/bennym42](https://www.reddit.com/r/shortcuts/comments/phtjkh/how_do_you_create_a_first_time_setup/hbmi1h7) (Shortcut script)
