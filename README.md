@@ -42,7 +42,7 @@ Wavve++ has a feature that detects whether you've used Wavve++ before so you can
 
 As said Wavve++ detects whether you've used Wavve++ before. The code used on this part does not work on iOS 14 or lower.
 
-(So that's why you have to manually install VLC if you use Wavve++ Lite.)
+(So that's why you need to manually install VLC if you use Wavve++ Lite.)
 
 **○ What is the **firstrun.txt** file in Files app?**
 
