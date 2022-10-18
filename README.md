@@ -1,5 +1,5 @@
 # Wavve++
-A shortcut that allows you to watch TV
+A shortcut that allows you to watch live TV on your iPhone.
 
 Want to use **Wavve++ for Mac** on your Mac..? Press the link [here](https://github.com/Dr-Sauce/WavvePlusForMac)!
 
