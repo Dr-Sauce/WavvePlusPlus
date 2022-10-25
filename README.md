@@ -52,7 +52,7 @@ That's the file used to detect whether you've used Wavve++ before. If you delete
 
 If you really hate that file staying in your Files app, you can use **Wavve++ Lite**.
 
-**I can't play certain streaming links.**
+**○ I can't play certain streaming links.**
 
 Scriptable code doesn't support all streaming links. In this case use [Wavve 1.2](https://github.com/Dr-Sauce/WavvePlusPlus/releases/tag/1.2).
 
