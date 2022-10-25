@@ -37,7 +37,7 @@ Want to use **Wavve++ for Mac**..? Press the link [here](https://github.com/Dr-S
 
 **○ What's the difference between **Wavve++** and **Wavve++ Lite**?**
 
-Wavve++ has a feature that detects whether you've used Wavve++ before so you can easily install VLC. Wavve++ Lite doesn't have this feature.
+Wavve++ has a feature that detects whether you've used Wavve++ before so you can easily install Scriptable. Wavve++ Lite doesn't have this feature.
 
 **○ Why doesn't Wavve++ doesn't support iOS 14 or lower?
 
@@ -51,7 +51,7 @@ That's the file used to detect whether you've used Wavve++ before. If you delete
 
 If you really hate that file staying in your Files app, you can use **Wavve++ Lite**.
 
-** I can't play certain streaming links.**
+**I can't play certain streaming links.**
 
 Scriptable code doesn't support all streaming links. In this case use [Wavve 1.2](https://github.com/Dr-Sauce/WavvePlusPlus/releases/tag/1.2).
 
