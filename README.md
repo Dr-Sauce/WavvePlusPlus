@@ -16,21 +16,22 @@ Want to use **Wavve++ for Mac**..? Press the link [here](https://github.com/Dr-S
 
 ![IMG_2468](https://user-images.githubusercontent.com/82555878/196368779-25f80a86-b965-4d24-af92-232cb1afe766.jpeg)
 
-3. Launch the shortcut. Press OK to install VLC.
+3. Launch the shortcut. Press OK to install Scriptable.
 
-**Notice:** If you are using **Wavve++ Lite** you need to [manually install VLC from the App Store](https://apps.apple.com/app/vlc-media-player/id650377962).
+**Notice:** If you are using **Wavve++ Lite** you need to [manually install Scriptable from the App Store](https://apps.apple.com/app/vlc-media-player/id650377962).
 
-![A2512035-4C45-408B-8F6F-E7B3B1C65D23](https://user-images.githubusercontent.com/82555878/196369821-ea3c443f-fbaf-4cb3-9021-d49127fc4637.jpeg)
+![0F48AD24-87CF-40AA-B9B6-EA7528484AF0](https://user-images.githubusercontent.com/82555878/197663352-bcf2e91c-9051-46bd-b74f-9733c864e74f.png)
 
 4. Install VLC. A popup will appear a few seconds later. Do NOT press OK before install finishes.
 
-![C83D6A01-67D5-4FD6-B2E4-B9D84442F707](https://user-images.githubusercontent.com/82555878/196369833-59cf1dc2-ffbf-461d-8767-bd0608f0ebd6.jpeg)
+![1D5D9D27-40BE-4A4D-A369-F2D0D2121EA4](https://user-images.githubusercontent.com/82555878/197663445-25e9a27a-ef28-4bd7-a435-69a141c3cbdd.png)
 
-![DA024C89-4A80-4964-AB19-81F4C335BA1F](https://user-images.githubusercontent.com/82555878/196369841-aa0987ce-a427-4f2b-83f0-ad71e58f0986.jpeg)
+![B7761592-2F64-4270-8D3E-A2A2D4B048F1](https://user-images.githubusercontent.com/82555878/197663452-b779edd1-7157-41ea-8f7f-d9ea0e0ae40b.png)
 
 5. Select the channel you want to watch.
 
-![A21492B3-E823-4F3A-BE7C-DD9055BD8AB7](https://user-images.githubusercontent.com/82555878/196369852-3569af64-8cfd-44b5-98da-6ec9936e9757.jpeg)
+![886501F5-692B-4858-8F06-1BF53CEFEE47](https://user-images.githubusercontent.com/82555878/197663490-69ad6fd8-2fb0-4678-97a6-b7834ac28ced.png)
+
 ![53C94F8C-2BE4-478C-9B78-EDABDC58F7D4](https://user-images.githubusercontent.com/82555878/196369861-10d08530-4d91-439b-be64-2e6321eaf062.jpeg)
 
 # Q&A:
