@@ -39,7 +39,7 @@ Want to use **Wavve++ for Mac**..? Press the link [here](https://github.com/Dr-S
 
 Wavve++ has a feature that detects whether you've used Wavve++ before so you can easily install Scriptable. Wavve++ Lite doesn't have this feature.
 
-**○ Why doesn't Wavve++ doesn't support iOS 14 or lower?
+**○ Why doesn't Wavve++ doesn't support iOS 14 or lower?**
 
 As said Wavve++ detects whether you've used Wavve++ before. The code used on this part does not work on iOS 14 or lower.
 
