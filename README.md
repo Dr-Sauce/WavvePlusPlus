@@ -39,17 +39,21 @@ Want to use **Wavve++ for Mac**..? Press the link [here](https://github.com/Dr-S
 
 Wavve++ has a feature that detects whether you've used Wavve++ before so you can easily install VLC. Wavve++ Lite doesn't have this feature.
 
-**○ Why can't I use Wavve++ on iOS 14 or lower? (Why can I only use Wavve++ Lite on iOS 14 or lower?)**
+**○ Why doesn't Wavve++ doesn't support iOS 14 or lower?
 
 As said Wavve++ detects whether you've used Wavve++ before. The code used on this part does not work on iOS 14 or lower.
 
-(So that's why you need to manually install VLC if you use Wavve++ Lite.)
+For iOS 14 (or lower) you can use Wavve++ Lite. Just keep in mind you have to manually install Scriptable if you use Wavve++ Lite.
 
-**○ What is the **Wavve++.txt** file in Files app?**
+**○ What is the **Wavve++.txt**(or firstrun.txt) file in Files app?**
 
 That's the file used to detect whether you've used Wavve++ before. If you delete that file Wavve++ will think you've never used Wavve++ before and prompt the setup popup again. (So don't delete it.)
 
 If you really hate that file staying in your Files app, you can use **Wavve++ Lite**.
+
+** I can't play certain streaming links.**
+
+Scriptable code doesn't support all streaming links. In this case use [Wavve 1.2](https://github.com/Dr-Sauce/WavvePlusPlus/releases/tag/1.2).
 
 # Credits:
 By [SAUCE COMPANY](https://m.blog.naver.com/sauce2011)
