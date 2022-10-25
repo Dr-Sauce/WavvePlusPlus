@@ -18,7 +18,7 @@ Want to use **Wavve++ for Mac**..? Press the link [here](https://github.com/Dr-S
 
 3. Launch the shortcut. Press OK to install Scriptable.
 
-**Notice:** If you are using **Wavve++ Lite** you need to [manually install Scriptable from the App Store](https://apps.apple.com/app/vlc-media-player/id650377962).
+**Notice:** If you are using **Wavve++ Lite** you need to [manually install Scriptable from the App Store](https://apps.apple.com/app/scriptable/id1405459188).
 
 ![0F48AD24-87CF-40AA-B9B6-EA7528484AF0](https://user-images.githubusercontent.com/82555878/197663352-bcf2e91c-9051-46bd-b74f-9733c864e74f.png)
 
