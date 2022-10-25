@@ -55,7 +55,7 @@ If you really hate that file staying in your Files app, you can use **Wavve++ Li
 By [SAUCE COMPANY](https://m.blog.naver.com/sauce2011)
 
 # Source:
-[방송PD] (https://m.blog.naver.com/gjppjh09/222416011602) (Streaming links)
+[방송PD](https://m.blog.naver.com/gjppjh09/222416011602) (Streaming links)
 
 [@sjshaiks](https://www.sjtechwork.com/2020/11/tv-news-ios-shortcut.html) (Scriptable script)
 
