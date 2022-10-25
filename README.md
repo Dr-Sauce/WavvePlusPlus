@@ -10,11 +10,11 @@ Want to use **Wavve++ for Mac**..? Press the link [here](https://github.com/Dr-S
 
 **Notice:** Wavve++ does not support iOS 14 or lower. Use **Wavve++ Lite** if you are on iOS 14 or lower.
 
-![7466807C-12E4-477A-8129-CF07A3813353](https://user-images.githubusercontent.com/82555878/196410499-f0dd0cae-a892-4962-a807-6a6c0afa2da3.png)
+![4C19EF43-4113-4D3A-BE68-EF6D3A18A4A9](https://user-images.githubusercontent.com/82555878/197664211-ccfd11e7-1644-46e5-8d81-309e59872ab1.png)
 
 2. Add the shortcut to your iPhone(iPad, iPod…).
 
-![IMG_2468](https://user-images.githubusercontent.com/82555878/196368779-25f80a86-b965-4d24-af92-232cb1afe766.jpeg)
+![DC6EF919-A696-4578-A652-94EB79719DB7](https://user-images.githubusercontent.com/82555878/197664234-41787eea-7cbf-4fbf-83c9-fdb94d0790f8.png)
 
 3. Launch the shortcut. Press OK to install Scriptable.
 
@@ -32,7 +32,7 @@ Want to use **Wavve++ for Mac**..? Press the link [here](https://github.com/Dr-S
 
 ![886501F5-692B-4858-8F06-1BF53CEFEE47](https://user-images.githubusercontent.com/82555878/197663490-69ad6fd8-2fb0-4678-97a6-b7834ac28ced.png)
 
-![53C94F8C-2BE4-478C-9B78-EDABDC58F7D4](https://user-images.githubusercontent.com/82555878/196369861-10d08530-4d91-439b-be64-2e6321eaf062.jpeg)
+![E4B8F789-B149-4C7C-94DF-3D23BCC9546A](https://user-images.githubusercontent.com/82555878/197664257-2dba0d0b-ca14-429d-99de-5af657b8b2de.png)
 
 # Q&A:
 
