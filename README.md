@@ -54,7 +54,7 @@ If you really hate that file staying in your Files app, you can use **Wavve++ Li
 
 **○ Certain streaming links not playing.**
 
-Scriptable code doesn't support all streaming links. Use [Wavve 1.2](https://github.com/Dr-Sauce/WavvePlusPlus/releases/tag/1.2) to play unsupported links.
+Scriptable code doesn't support all streaming links. Use [Wavve++ 1.2](https://github.com/Dr-Sauce/WavvePlusPlus/releases/tag/1.2) to play unsupported links.
 
 # Credits:
 By [SAUCE COMPANY](https://m.blog.naver.com/sauce2011)
