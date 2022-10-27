@@ -44,17 +44,17 @@ Wavve++ has a feature that detects whether you've used Wavve++ before so you can
 
 As said Wavve++ detects whether you've used Wavve++ before. The code used on this part does not work on iOS 14 or lower.
 
-For iOS 14 (or lower) you can use Wavve++ Lite. Just keep in mind you have to manually install Scriptable if you use Wavve++ Lite.
+For iOS 14 (or lower) you can use Wavve++ Lite. Just keep in mind you'll have to manually install Scriptable.
 
 **○ What is the **Wavve++.txt**(or firstrun.txt) file in Files app?**
 
-That's the file used to detect whether you've used Wavve++ before. If you delete that file Wavve++ will think you've never used Wavve++ before and prompt the setup popup again. (So don't delete it.)
+That's the file used to detect whether you've installed Wavve++ before. If you delete that file Wavve++ will think you've never used Wavve++ before and prompt the setup popup again. (So don't delete it.)
 
 If you really hate that file staying in your Files app, you can use **Wavve++ Lite**.
 
-**○ I can't play certain streaming links.**
+**○ Certain streaming links not playing.**
 
-Scriptable code doesn't support all streaming links. In this case use [Wavve 1.2](https://github.com/Dr-Sauce/WavvePlusPlus/releases/tag/1.2).
+Scriptable code doesn't support all streaming links. Use [Wavve 1.2](https://github.com/Dr-Sauce/WavvePlusPlus/releases/tag/1.2) to play unsupported links.
 
 # Credits:
 By [SAUCE COMPANY](https://m.blog.naver.com/sauce2011)
