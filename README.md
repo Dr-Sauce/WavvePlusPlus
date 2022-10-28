@@ -3,7 +3,7 @@ A shortcut that lets you watch Korean live TV on your iPhone. (**Notice:** Some 
 
 Want to use **Wavve++ for Mac**..? Press the link [here](https://github.com/Dr-Sauce/WavvePlusForMac)!
 
-![unnamed copy](https://user-images.githubusercontent.com/82555878/198529763-86832c87-cba9-462c-b637-3601ae43692c.png)
+![A8526108-F503-4351-A0E4-13E92FAF7BB7](https://user-images.githubusercontent.com/82555878/197349620-ed4f8d14-4c23-44f3-984e-ce71f4e8d06c.png)
 
 # How to install:
 
