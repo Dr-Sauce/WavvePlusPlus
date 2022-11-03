@@ -57,7 +57,7 @@ For iOS 14 (or lower) you can use Wavve++ Lite. Just keep in mind you'll have to
 
 That's the file used to detect whether you've installed Wavve++ before. If you delete that file Wavve++ will think you've never used Wavve++ before and prompt the setup popup again. (So don't delete it.)
 
-If you really hate that file staying in your Files app, you can use **Wavve++ Lite**.
+If you really hate that file staying in your Files app, you can use Wavve++ Lite.
 
 **○ Certain streaming links not playing.**
 
