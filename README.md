@@ -35,6 +35,12 @@ Want to use **Wavve++ for Mac**..? Press the link [here](https://github.com/Dr-S
 
 ![E4B8F789-B149-4C7C-94DF-3D23BCC9546A](https://user-images.githubusercontent.com/82555878/197664257-2dba0d0b-ca14-429d-99de-5af657b8b2de.png)
 
+# Known issues
+
+- SBS buffers a lot while playing. (Currently cannot be fixed.)
+
+- JTBC, Channel A has low quality. (Use [Wavve++ 1.2](https://github.com/Dr-Sauce/WavvePlusPlus/releases/tag/1.2))
+
 # Q&A:
 
 **○ What's the difference between **Wavve++** and **Wavve++ Lite**?**
