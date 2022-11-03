@@ -45,7 +45,7 @@ Want to use **Wavve++ for Mac**..? Press the link [here](https://github.com/Dr-S
 
 **○ What's the difference between **Wavve++** and **Wavve++ Lite**?**
 
-Wavve++ has a feature that detects whether you've used Wavve++ before so you can easily install Scriptable. Wavve++ Lite doesn't have this feature.
+Wavve++ has a feature that detects whether you've used it before so you can easily install Scriptable. Wavve++ Lite doesn't have this feature.
 
 **○ Why doesn't Wavve++ doesn't support iOS 14 or lower?**
 
