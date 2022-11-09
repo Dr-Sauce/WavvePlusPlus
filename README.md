@@ -64,11 +64,11 @@ Scriptable code doesn't support all streaming links. Use [Wavve++ 1.2](https://g
 - JTBC, Channel A has low quality. (Use [Wavve++ 1.2](https://github.com/Dr-Sauce/WavvePlusPlus/releases/tag/1.2))
 
 # Credits:
-By [SAUCE COMPANY](https://m.blog.naver.com/sauce2011)
+By Dr. Sauce ([SAUCE COMPANY](https://m.blog.naver.com/sauce2011))
 
 # Source:
-[방송PD](https://m.blog.naver.com/gjppjh09/222416011602) (Streaming links)
+[방송PD](https://m.blog.naver.com/gjppjh09) ([Streaming links](https://m.blog.naver.com/gjppjh09/222416011602))
 
-[@sjshaiks](https://www.sjtechwork.com/2020/11/tv-news-ios-shortcut.html) (Scriptable script)
+[@sjtechwork](https://twitter.com/sjtechwork) ([Scriptable script](https://www.sjtechwork.com/2020/11/tv-news-ios-shortcut.html))
 
-[u/bennym42](https://www.reddit.com/r/shortcuts/comments/phtjkh/how_do_you_create_a_first_time_setup/hbmi1h7) (Shortcut script)
+[u/bennym42](https://www.reddit.com/user/BennyM42) ([Shortcut script](https://www.reddit.com/r/shortcuts/comments/phtjkh/how_do_you_create_a_first_time_setup/hbmi1h7))
