@@ -64,7 +64,7 @@ Scriptable code doesn't support all streaming links. Use [Wavve++ 1.2](https://g
 - JTBC, Channel A has low quality. (Use [Wavve++ 1.2](https://github.com/Dr-Sauce/WavvePlusPlus/releases/tag/1.2))
 
 # Credits:
-[Dr. Sauce](https://github.com/Dr-Sauce) ([SAUCE COMPANY](https://m.blog.naver.com/sauce2011))
+Dr. Sauce ([SAUCE COMPANY](https://m.blog.naver.com/sauce2011))
 
 # Source:
 [방송PD](https://m.blog.naver.com/gjppjh09) ([Streaming links](https://m.blog.naver.com/gjppjh09/222416011602))
