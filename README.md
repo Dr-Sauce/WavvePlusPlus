@@ -9,7 +9,7 @@ Want to use **Wavve++ for Mac**..? Press the link [here](https://github.com/Dr-S
 
 1. Get the latest version of Wavve++ from [releases](https://github.com/Dr-Sauce/WavvePlus/releases).
 
-**Notice:** Wavve++ does not support iOS 14 or lower. Use **Wavve++ Lite** if you are on iOS 14 or lower.
+**Notice:** If your device is lower than iOS 15.5, use **Wavve++ Lite 1.2**.
 
 ![4C19EF43-4113-4D3A-BE68-EF6D3A18A4A9](https://user-images.githubusercontent.com/82555878/197664211-ccfd11e7-1644-46e5-8d81-309e59872ab1.png)
 
@@ -50,8 +50,6 @@ For iOS 14 (or lower) you can use Wavve++ Lite. Just keep in mind you'll have to
 **○ What is the **Wavve++.txt**(or firstrun.txt) file in Files app?**
 
 That's the file used to detect whether you've installed Wavve++ before. If you delete that file Wavve++ will think you've never used Wavve++ before and prompt the setup popup again. (So don't delete it.)
-
-If you really hate that file staying in your Files app, you can use Wavve++ Lite.
 
 **○ Certain streaming links not playing.**
 
