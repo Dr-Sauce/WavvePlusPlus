@@ -1,5 +1,5 @@
 # Wavve++
-A shortcut that lets you watch Korean live TV on your iPhone. (**Notice:** Some channels may not be available in your region.)
+A shortcut that lets you watch Korean live TV on your iPhone. (**Note:** Some channels may not be available in your region.)
 
 Want to use **Wavve++ for Mac**..? Press the link [here](https://github.com/Dr-Sauce/WavvePlusForMac)!
 
