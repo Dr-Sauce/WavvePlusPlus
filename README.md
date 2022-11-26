@@ -7,7 +7,7 @@ Want to use **Wavve++ for Mac**..? Press the link [here](https://github.com/Dr-S
 
 # How to install:
 
-1. Go to [releases](https://github.com/Dr-Sauce/WavvePlusPlus/releases) and download the latest version.
+1. Go to [releases](https://github.com/Dr-Sauce/WavvePlusPlus/releases/latest) and download the latest version.
 
 2. Open the Shortcut. And select the channel you want to watch.
 
