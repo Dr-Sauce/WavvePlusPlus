@@ -26,6 +26,9 @@ Easily switch player to VLC, Scriptable, Safari.
 - **[IPTV](https://github.com/iptv-org/iptv) intergration**
 Not happening in the near future. (KOR.m3u hasn't been updated for a long time.)
 
+- **[Shortcut Updater](https://github.com/Dr-Sauce/ShortcutUpdater) integration**
+Wavve++ may be the first shortcut to get Shortcut Updater integrated when it finishes.
+
 # Source:
 [방송국 스트리밍 주소안내](https://m.blog.naver.com/gjppjh09/222416011602) ([방송PD](https://m.blog.naver.com/gjppjh09))
 
