@@ -17,8 +17,14 @@
 
 # Up coming:
 
-- **User friendly UI/ UX** (Streaming links change so much I can't update them all the time. I'll release an update so people can more easily edit the streaming links.)
+- **User friendly UI/ UX**
+Streaming links change so much I can't update them all the time. I'll release an update so people can more easily edit the streaming links.
 
+- **Switch Player settings**
+Easily switch player to VLC, Scriptable, Safari.
+
+- **[IPTV](https://github.com/iptv-org/iptv) intergration**
+Not happening in the near future. (KOR.m3u hasn't been updated for a long time.)
 
 # Source:
 [방송국 스트리밍 주소안내](https://m.blog.naver.com/gjppjh09/222416011602) ([방송PD](https://m.blog.naver.com/gjppjh09))
