@@ -17,8 +17,7 @@
 
 # Up coming:
 
-- **User friendly UI/ UX**
-Streaming links change so much I can't update them all the time. I'll release an update so people can more easily edit the streaming links.
+- **User friendly UI/ UX** (Streaming links change so much I can't update them all the time. I'll release an update so people can more easily edit the streaming links.)
 
 
 # Source:
