@@ -17,12 +17,13 @@
 
 # Up coming:
 
+- **User friendly UI/ UX**
 Streaming links change so much I can't update them all the time. I'll release an update so people can more easily edit the streaming links.
 
 
 # Source:
-[Streaming links](https://m.blog.naver.com/gjppjh09/222416011602) ([방송PD](https://m.blog.naver.com/gjppjh09))
+[방송국 스트리밍 주소안내](https://m.blog.naver.com/gjppjh09/222416011602) ([방송PD](https://m.blog.naver.com/gjppjh09))
 
-[Scriptable script](https://www.sjtechwork.com/2020/11/tv-news-ios-shortcut.html) ([@sjtechwork](https://twitter.com/sjtechwork))
+[Play SJTV iOS Shortcut](https://www.sjtechwork.com/2020/11/tv-news-ios-shortcut.html) ([@sjtechwork](https://twitter.com/sjtechwork))
 
 [First Run Check](https://www.reddit.com/r/shortcuts/comments/phtjkh/how_do_you_create_a_first_time_setup/hbmi1h7) ([u/bennym42](https://www.reddit.com/user/BennyM42))
