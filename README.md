@@ -11,7 +11,7 @@
 
 2. 단축어를 실행해서 시청하고 싶은 채널을 선택합니다. (Open the Shortcut. And select the channel you want to watch.)
 
-![886501F5-692B-4858-8F06-1BF53CEFEE47](https://user-images.githubusercontent.com/82555878/197663490-69ad6fd8-2fb0-4678-97a6-b7834ac28ced.png)
+![B960517B-DF02-4F69-8B71-946B098F7051](https://user-images.githubusercontent.com/82555878/208373100-9fe23c08-07a2-418c-9af0-b0b25663ddc6.png)
 
 ![E4B8F789-B149-4C7C-94DF-3D23BCC9546A](https://user-images.githubusercontent.com/82555878/197664257-2dba0d0b-ca14-429d-99de-5af657b8b2de.png)
 
