@@ -7,10 +7,17 @@
 
 # How to install:
 
-아래 글 참고해주세요.
+1. 앱 스토어에서 [VLC 플레이어](https://apps.apple.com/app/vlc-media-player/id650377962)를 다운로드합니다.
 
-[![image](https://user-images.githubusercontent.com/82555878/209824901-60955030-0f9e-4cee-bc5f-825854e6cfa0.png)](https://blog.naver.com/saucecompany_/222901624976)
+![image](https://user-images.githubusercontent.com/82555878/209825526-00d024a7-60b4-44b1-bddf-93efe1965dd8.png)
 
+2. [Releases](https://github.com/Dr-Sauce/WavvePlusPlus/releases/latest)에서 최신 버전의 Wavve++를 다운로드합니다. (Go to [releases](https://github.com/Dr-Sauce/WavvePlusPlus/releases/latest) and download the latest version.)
+
+2. 단축어를 실행해서 시청하고 싶은 채널을 선택합니다. (Open the Shortcut. And select the channel you want to watch.)
+
+![B960517B-DF02-4F69-8B71-946B098F7051](https://user-images.githubusercontent.com/82555878/208373100-9fe23c08-07a2-418c-9af0-b0b25663ddc6.png)
+
+![E4B8F789-B149-4C7C-94DF-3D23BCC9546A](https://user-images.githubusercontent.com/82555878/197664257-2dba0d0b-ca14-429d-99de-5af657b8b2de.png)
 
 # Up coming:
 
