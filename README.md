@@ -9,13 +9,19 @@
 
 1. 앱 스토어에서 [VLC 플레이어](https://apps.apple.com/app/vlc-media-player/id650377962)를 다운로드합니다.
 
+Download [VLC Player](https://apps.apple.com/app/vlc-media-player/id650377962) from the App Store.
+
 ![image](https://user-images.githubusercontent.com/82555878/209825526-00d024a7-60b4-44b1-bddf-93efe1965dd8.png)
 
-2. [Releases](https://github.com/Dr-Sauce/WavvePlusPlus/releases/latest)에서 최신 버전의 Wavve++를 다운로드합니다. (Go to [releases](https://github.com/Dr-Sauce/WavvePlusPlus/releases/latest) and download the latest version.)
+2. [Releases](https://github.com/Dr-Sauce/WavvePlusPlus/releases/latest)에서 최신 버전의 Wavve++를 다운로드합니다.
+
+Go to [releases](https://github.com/Dr-Sauce/WavvePlusPlus/releases/latest) and download the latest version.
 
 ![image](https://user-images.githubusercontent.com/82555878/209825672-c75b90d0-946a-40f9-a3fa-e1eebedc8b63.png)
 
-3. 단축어를 실행해서 시청하고 싶은 채널을 선택합니다. (Open the Shortcut. And select the channel you want to watch.)
+3. 단축어를 실행해서 시청하고 싶은 채널을 선택합니다.
+
+Open the Shortcut. And select the channel you want to watch.
 
 ![B960517B-DF02-4F69-8B71-946B098F7051](https://user-images.githubusercontent.com/82555878/208373100-9fe23c08-07a2-418c-9af0-b0b25663ddc6.png)
 
