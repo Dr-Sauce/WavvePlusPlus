@@ -1,0 +1,11 @@
+{
+"Date":"20221228",
+"SBS":"http://www.hwado.net/webtv/public/31.php",
+"KBS1":"http://www.hwado.net/webtv/public/1.php",
+"KBS2":"http://www.hwado.net/webtv/public/3.php",
+"MBC":"https://tinyurl.com/2p9npbnz",
+"tvN":"vlc://http://kkhyoyoyo.duckdns.org:9999/klive/api/url.m3u8?m=url&s=tving&i=C00551&q=FHD&apikey=0MENK2CJI5",
+"Mnet":"vlc://http://kkhyoyoyo.duckdns.org:9999/klive/api/url.m3u8?m=url&s=tving&i=C00579&q=FHD&apikey=0MENK2CJI5",
+"JTBC":"vlc://http://211.170.95.22/vod/74701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI",
+"Channel A":"vlc://http://211.170.95.22/vod/74901.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
+}
