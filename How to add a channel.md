@@ -10,7 +10,7 @@
 
 ![KakaoTalk_20221228_222300028_05](https://user-images.githubusercontent.com/82555878/209819418-f1291a9e-0ddc-47f0-98d6-e6fc6a17713e.png)
 
-3. 이제 Wavve++를 실행하면 추가한 채널들이 보일 겁니다.
+3. 수정을 완료한 후 Wavve++를 실행하면 추가한 채널들이 보일 겁니다.
 
 ![KakaoTalk_20221228_222300028_06](https://user-images.githubusercontent.com/82555878/209819452-92793c08-093f-4559-ab22-c10c87a860e7.png)
 
