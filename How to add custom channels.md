@@ -4,7 +4,8 @@ Launch Shortcuts app. And press the 3 dot on Wavve++.
 
 ![KakaoTalk_20221228_222300028](https://user-images.githubusercontent.com/82555878/209819726-65ebd92f-a99f-419c-a722-75aa8a0990a9.png)
 
-![KakaoTalk_20221228_222300028_01](https://user-images.githubusercontent.com/82555878/209819730-4cb855c7-5d2c-45cc-a180-bb16b6c86e8c.png)
+![3128BA73-1218-4F51-B602-627B54847A03](https://user-images.githubusercontent.com/82555878/209892256-dea70b22-56f0-4582-9266-b33db886b2ee.png)
+
 
 2. 빈 사전이 보일 겁니다. 왼쪽 행에는 채널 이름들을, 오른쪽 행에는 채널 링크들을 복사해와서 붙여놓으면 됩니다. (스트리밍 링크는 [여기](https://m.blog.naver.com/gjppjh09/222416011602)에서 찾을 수 있습니다.)
 
