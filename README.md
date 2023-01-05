@@ -29,9 +29,9 @@ Open the Shortcut. And select the channel you want to watch.
 
 # How to add custom channels (채널 추가하기):
 
-Press this link: [(Link)](https://github.com/Dr-Sauce/WavvePlusPlus/blob/main/HowToAddCustomChannels.md)
-
 여기 누르세요: [(링크 바로가기)](https://github.com/Dr-Sauce/WavvePlusPlus/blob/main/HowToAddCustomChannels.md)
+
+Press this link: [(Link)](https://github.com/Dr-Sauce/WavvePlusPlus/blob/main/HowToAddCustomChannels.md)
 
 # Up coming:
 
